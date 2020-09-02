@@ -1,6 +1,8 @@
 ![Speed Limiter](/img/img.jpg)
 # RP Friendly Cruise Control/Speed Limiter
 
+Our discord with more scripts: https://discord.gg/F28PfsY
+
 This is new iteration of Cruise Control/Speed Limiting, that I've had good feedback on compared to other Cruise Control/Speed limiter scripts.
 
 You can configure what cars have cruise control in the config, other cars have just speed limiter - you must hold W key to drive.
